@@ -1,0 +1,23 @@
+body {
+    background: url('https://www.transparenttextures.com/patterns/asfalt-dark.png'), #0a0a0a;
+    background-blend-mode: multiply;
+    color: white;
+}
+
+
+p, h5 {
+    color: white;
+}
+a, h1 {
+color:blueviolet;
+
+}
+ h3 {
+color:gold;
+
+ }
+ img {
+    width: 100px; /* Largura desejada */
+    height: auto; /* Mantém a proporção */
+  }
+  
