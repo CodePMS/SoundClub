@@ -1,23 +1,33 @@
 body {
+   
     background: url('https://www.transparenttextures.com/patterns/asfalt-dark.png'), #0a0a0a;
     background-blend-mode: multiply;
     color: white;
 }
 
 
-p, h5 {
+p, h5, h4 {
     color: white;
 }
 a, h1 {
 color:blueviolet;
 
 }
- h3 {
+
+h3 {
 color:gold;
 
  }
  img {
-    width: 100px; /* Largura desejada */
-    height: auto; /* Mantém a proporção */
+    width: 100px; 
+    height: auto; 
+    border-top: 5px;
   }
   
+  #contas-criadas .conta {
+    margin: 5px 0;
+    padding: 5px;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+}
