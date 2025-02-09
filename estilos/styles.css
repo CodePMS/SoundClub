@@ -5,8 +5,8 @@ body {
     color: white;
 }
 h1 {
-    border: 1px solid blueviolet;
-    padding: 5px;
+    border: 2px solid blueviolet;
+    padding: 10px;
     display: inline-block;
     background-color: rgba(138, 43, 226, 0.2);
     border-radius: 2px;
